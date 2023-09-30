@@ -4,6 +4,12 @@
 WHEN I enter the command to invoke the application
 `npm run seed`
 `npm run start`
+
+ROUTES ARE SET UP IN INSOMNIA
+USE ABOVE COMMANDS TO SEED AND OPEN SERVER
+THEN RECORD THE INSOMNIA SESSION TO SUBMIT 
+
+
 THEN my server is started and the Sequelize models are synced to the MySQL database
 
 WHEN I open API GET routes in Insomnia for categories, products, or tags
